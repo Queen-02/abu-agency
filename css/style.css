@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+
+body{
+    background-color: #FBF8F9;
+    cursor: pointer;
+}
+
+/* STYLING THE NAVBAR SECTION */
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 14px;
+}
+.logo a{
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'Bree Serif', serif;
+}
+span{
+    color: #58B881;
+}
+strong{
+    color: black;
+}
+
+nav ul li{
+    display: inline;
+    list-style: none;
+    padding: 8px;
+    /* color: rgb(88, 73, 73); */
+}
+nav ul li a{
+    font-size: 22px;
+    text-decoration: none;
+    color: rgba(88, 73, 73, 0.487);
+    font-family: 'Bree Serif', serif;
+}
+.btn{
+    background-color: #5184F9;
+    height: 40px;
+    width: 140px;
+    border: navajowhite;
+    border-radius: 50px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: medium;
+}
+
+/* STYLING HOME SECTION */
+/* #home{
+    margin-left: auto;
+    margin-right: auto;
+} */
+.icons{
+    font-size: 60px;
+    margin-left: 2%;
+}
+.main{
+    display: flex;
+    margin-left: 2%;
+}
+.pop{
+    font-size: 50px;
+    color: #3A1402;
+}
+.pap{
+    color: #757583;
+    font-size: 25px;
+}
+.person{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -15%;
+}
+.buttons{
+    display: flex;
+}
+.us{
+    height: 40px;
+    width: 140px;
+    padding-left: 5px;
+    border: navajowhite;
+    border-radius: 50px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: medium;
+    background-color: #58B881;
+    box-shadow: 5px 5px rgb(242,223,229);
+}
+.numbers{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -9%;
+}
+.coln{
+    background-color: white;
+    padding: 30px;
+    width: 60%;
+    border:0.5px solid #757583ae;
+    color: #3A1402;
+    height: 100px;
+}
+.coln h2{
+    font-size: xx-large;
+    font-family: 'Bree Serif', serif;
+}
+.coln p{
+    font-size: 20px;
+}
+.companies{
+    display: flex;
+}
+.col{
+    background-color: #fff;
+    /* border:1px solid #757583ae; */
+    padding: 20px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
