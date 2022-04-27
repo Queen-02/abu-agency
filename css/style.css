@@ -209,5 +209,134 @@ nav ul li a{
     width: 500px;
 }
 .mine img{
+    margin-top: -15%;
+    margin-left: -15%;
+}
+.rid{
+    margin-left: 5%;
+}
+.rid h3{
+    color: #58B881;
+}
+.rid h1{
+    color: #3A1402;
+    font-size: 50px;
+}
+.one{
+    padding: 15px;
+}
+.cooon{
+    background-color: #EAF6FF;
+    height: 5%;
+    width: 80%;
+    border-radius: 50px;
+    box-shadow: 5px 5px rgba(128, 128, 128, 0.616);
+}
+.one h4{
+    margin-top: -8%;
+    text-align-last: start;
+    margin-left: 15%;
+    font-size: 25px;
+    color:#3A1402;
+}
+h4{
+    margin-top: 5%;
+}
+
+/* SIGN UP SECTION */
+.sign{
+    background-color: white;
+    height: 300px;
+}
+.up{
+    text-align: center;
+    background-color: white;
+}
+.hap{
+    color: #3A1402;
+    font-size: 50px;
+}
+.lap{
+    font-size: 20px;
+}
+.pat{
+   text-align: center;
+}
+.input{
+    height: 80px;
+    width: 500px;
+    background-color:#49A091;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+}
+.bttn{
+    background-color: #5184F9;
+    height: 50px;
+    width: 80px;
+    border: none;
+    margin-left: -8%;
+    border-radius: 5px;
+}
+
+ /* LAST SECTION */
+ .last{
+     display: flex;
+     margin-top: 5%;
+     background-color: #fff;
+ }
+ .nine{
+     margin-left: auto;
+     /* background-color: #EAF6FF; */
+ }
+ .nine img{
+    margin-top: -15%;
+    margin-left: -10%;
+}
+.wrk{
+    margin-left: auto;
+}
+.wrk h3{
+    color: #58B881;
+}
+.wrk h1{
+    color: #3A1402;
+    font-size: 50px;
+}
+.name{
+    display: flex;
+}
+.text{
+    display: flex;
+    padding: 5%;
+}
+label{
+    font-size: 20px;
+    padding: 5px;
     margin-top: -5%;
+    
+}
+.inpt{
+    height: 80px;
+    width: 500px;
+    background-color:#FEF8F8;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+} 
+textarea{
+    background-color:#FEF8F8;
+    border: none;
+    border-radius: 25px;
+    color: white;
+    font-family: 'Bree Serif', serif;
+    font-size: 20px;
+    height: 80px;
+    width: 500px;
+    text-align: start;
+    margin-left: -5%;
 }
