@@ -340,3 +340,13 @@ textarea{
     text-align: start;
     margin-left: -5%;
 }
+.send{
+    border: none;
+    height: 60px;
+    width: 160px;
+    border: none;
+  background-color: #49A091;
+    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+}
