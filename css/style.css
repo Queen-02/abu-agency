@@ -86,6 +86,21 @@ nav ul li a{
     font-size: medium;
     background-color: #58B881;
     box-shadow: 5px 5px rgb(242,223,229);
+    padding: 5px;
+}
+.but{
+    background-color: #fff;
+    height: 30px;
+    width: 150px;
+    margin-left: 5%;
+    border: navajowhite;
+    border-radius: 50px;
+    color:#757583;
+    font-family: 'Bree Serif', serif;
+    font-size: small;
+    box-shadow: 5px 5px rgb(242,223,229);
+    text-align: center;
+    padding: 10px;
 }
 .numbers{
     display: flex;
@@ -120,4 +135,68 @@ nav ul li a{
     width: 50%;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* SERVICE SECTION */
+#service{
+    background-color: #FFFFFF;
+}
+.log{
+    text-align: center;
+}
+.log h3{
+    color: #58B881;
+    font-family: 'Bree Serif', serif;
+    font-size: 30px;
+}
+.log h2{
+    color: #3A1402;
+    font-size: 50px;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+.con{
+    margin-top: 1pc;
+    margin-left: 5%;
+}
+.colum{
+    background-color: #F5F9FA;
+    font-size: 30px;
+    /* text-align: center; */
+    justify-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.column{
+    background-color: #49A091;
+    font-size: 30px;
+    /* text-align: center; */
+    justify-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pip{
+    color: white;
+}
+.colmn{
+    background-color: #EAF6FF;
+    font-size: 30px;
+    /* text-align: center; */
+    justify-items: center;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.card{
+    height: 400px;
+    width: 400px;
+    /* justify-content: center; */
 }
